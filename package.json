@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/alikahwaji/JavaScript-Playground-2022#readme",
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   }
 }
